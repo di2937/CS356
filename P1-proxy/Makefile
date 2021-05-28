@@ -1,0 +1,4 @@
+Nothing:
+all:
+clean:
+.SILENT:

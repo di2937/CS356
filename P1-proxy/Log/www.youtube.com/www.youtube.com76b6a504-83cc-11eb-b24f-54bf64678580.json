@@ -1,0 +1,1 @@
+{"Incoming header": "CONNECT www.youtube.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.16; rv:86.0) Gecko/20100101 Firefox/86.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.youtube.com:443\r\n\r\n", "Proxy response sent": "HTTP/1.0 200 OK\r\n\r\n"}
